@@ -63,7 +63,7 @@
 
 * **go 用来做 web 编程**： [https://www.kancloud.cn/kancloud/web-application-with-golang/44105](https://www.kancloud.cn/kancloud/web-application-with-golang/44105)
 * **go 的基本概念**： [https://www.kancloud.cn/kancloud/the-way-to-go/72675](https://www.kancloud.cn/kancloud/the-way-to-go/72675)
-* **go 的优势**：和 c++ 比起来，良好的 GC。 和 java 比起来，代码量小，性能更高，并发处理方便。劣势是没有自己的包管理机制，生态圈很是很完美。
+* **go 的优势**：和 c++ 比起来，良好的 GC。 和 java 比起来，代码量小，性能更高，并发处理方便。劣势是没有自己的包管理机制，生态圈不是很完美。
 * ……
 
 ### 其他
